@@ -1,0 +1,5 @@
+method,AUROC,CI,diff_vs_baseline,diff_CI
+Baseline,0.811,0.764-0.862,0.0,0.000 to 0.000
+MC Dropout,0.82,0.768-0.868,0.009,-0.030 to 0.046
+Deep Ensemble,0.8,0.750-0.848,-0.011,-0.047 to 0.025
+VI (BBB),0.816,0.767-0.862,0.005,-0.029 to 0.044
